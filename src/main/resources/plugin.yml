@@ -1,0 +1,6 @@
+name: "BloodEffect-Nukkit"
+author: "xxFLORII"
+website: "https://github.com/xxPLUGINS/BloodEffect-Nukkit"
+version: 1.0.0
+api: 1.0.0
+main: dev.xxplugins.bloodeffect.Loader
